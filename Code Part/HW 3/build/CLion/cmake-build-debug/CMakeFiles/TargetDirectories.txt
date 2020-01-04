@@ -1,0 +1,3 @@
+/home/pthomas/Desktop/HW3/build/CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pthomas/Desktop/HW3/build/CLion/cmake-build-debug/CMakeFiles/CLion.dir
+/home/pthomas/Desktop/HW3/build/CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
